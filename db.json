@@ -1,0 +1,275 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+      "price": 12000,
+      "category": "Electronics",
+      "offer": "10% Off"
+    },
+    {
+      "id": "2",
+      "name": "Shoes",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/0/v/j/7-jimmy-white-7-clymb-white-original-imahdytemdt7supf.jpeg?q=70",
+      "price": 2500,
+      "category": "Fashion",
+      "offer": "15% Off"
+    },
+    {
+      "id": "9669",
+      "name": "top",
+      "price": "500",
+      "description": "elagent",
+      "image": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/p0SBC/Kurtas__Kurtis._CB558288617_.png",
+      "categorey": "Fashion",
+      "category": "Fashion"
+    },
+    {
+      "id": "f5e4",
+      "name": "H&MM",
+      "price": "1500",
+      "description": "fit",
+      "image": "https://m.media-amazon.com/images/I/61oJ9A6A+UL._AC_UL480_FMwebp_QL65_.jpg",
+      "categorey": "Fashion",
+      "category": "Fashion"
+    },
+    {
+      "id": "5fdc",
+      "name": "Zara",
+      "price": "670",
+      "category": "Fashion",
+      "description": "tyy",
+      "image": "https://m.media-amazon.com/images/I/316urPDQiwL.AC_SX250.jpg"
+    },
+    {
+      "id": "4fd7",
+      "name": "motorola",
+      "price": "20000",
+      "category": "Electronics",
+      "description": "nice product",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/j/b/-original-imah83ezvx8m7hs6.jpeg?q=70"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Fashion"
+    }
+  ],
+  "offers": [
+    {
+      "id": "81a6",
+      "title": "summer",
+      "discount": "30% 0fff",
+      "description": "wow elagent offer",
+      "image": "https://m.media-amazon.com/images/G/31/img23/Wireless/CatPage/Revamp2025/AmazonStores/Revamp/Amazon-Stores_01._CB804355852_.jpg"
+    },
+    {
+      "id": "1a2e",
+      "title": "weekend saba",
+      "discount": "50%",
+      "description": "great",
+      "image": "https://m.media-amazon.com/images/G/31/img24/Fashion/AF/BAU/Winterflip/Unrec/tophero/PC/Deals_on_1_lakh_styles._CB542298117_.jpg"
+    },
+    {
+      "id": "c5cf",
+      "title": "Great india",
+      "discount": "60%",
+      "description": "Stock Clearing Sale",
+      "image": "https://m.media-amazon.com/images/G/31/img23/Wireless/Isha/Xiaomi/Redmi15/8th/ne/Redmi_13_1._CB803666904_.png"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6818",
+      "customer": {
+        "name": "Nandhu S",
+        "address": "suresh sadanam, palamel\npadanilam",
+        "phone": "07306833788",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Smartphone",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+          "price": 12000,
+          "category": "Electronics",
+          "offer": "10% Off",
+          "quantity": 2
+        }
+      ],
+      "status": "Pending",
+      "date": "2025-08-20T12:09:11.016Z"
+    },
+    {
+      "id": "fe4d",
+      "customer": {
+        "name": "Nandhu S",
+        "address": "suresh sadanam, palamel\npadanilam",
+        "phone": "07306833788",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Smartphone",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+          "price": 12000,
+          "category": "Electronics",
+          "offer": "10% Off",
+          "quantity": 2
+        }
+      ],
+      "status": "Rejected",
+      "date": "2025-08-20T13:25:48.937Z"
+    },
+    {
+      "id": "c4dc",
+      "customer": {
+        "name": "anu",
+        "address": "adfff",
+        "phone": "09847999681",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Smartphone",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+          "price": 12000,
+          "category": "Electronics",
+          "offer": "10% Off",
+          "quantity": 2
+        }
+      ],
+      "status": "Rejected",
+      "date": "2025-08-20T14:32:45.046Z"
+    },
+    {
+      "id": "8c37",
+      "customer": {
+        "name": "Anita jacob",
+        "address": "aeeertty",
+        "phone": "73089645321",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": 2,
+          "name": "Shoes",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/0/v/j/7-jimmy-white-7-clymb-white-original-imahdytemdt7supf.jpeg?q=70",
+          "price": 2500,
+          "category": "Fashion",
+          "offer": "15% Off",
+          "quantity": 2
+        }
+      ],
+      "status": "Approved",
+      "date": "2025-08-20T14:39:52.295Z"
+    },
+    {
+      "id": "590d",
+      "customer": {
+        "name": "ammu",
+        "address": "adfff",
+        "phone": "09847999681",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Smartphone",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+          "price": 12000,
+          "category": "Electronics",
+          "offer": "10% Off",
+          "quantity": 1
+        }
+      ],
+      "status": "Approved",
+      "date": "2025-08-20T14:54:11.241Z"
+    },
+    {
+      "id": "37ba",
+      "customer": {
+        "name": "nithya",
+        "address": "adfff",
+        "phone": "09847999661",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": "9669",
+          "name": "top",
+          "price": "500",
+          "description": "elagent",
+          "image": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/p0SBC/Kurtas__Kurtis._CB558288617_.png",
+          "categorey": "Fashion",
+          "category": "Fashion",
+          "quantity": 1
+        }
+      ],
+      "status": "Approved",
+      "date": "2025-08-20T15:01:05.751Z"
+    },
+    {
+      "id": "5254",
+      "customer": {
+        "name": "wahab",
+        "address": "ertt",
+        "phone": "8976543212",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "Smartphone",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+          "price": 12000,
+          "category": "Electronics",
+          "offer": "10% Off",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Shoes",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/0/v/j/7-jimmy-white-7-clymb-white-original-imahdytemdt7supf.jpeg?q=70",
+          "price": 2500,
+          "category": "Fashion",
+          "offer": "15% Off",
+          "quantity": 1
+        }
+      ],
+      "status": "Approved",
+      "date": "2025-08-21T01:24:47.651Z"
+    },
+    {
+      "id": "78eb",
+      "customer": {
+        "name": "Nandhu S",
+        "address": "suresh sadanam, palamel\npadanilam",
+        "phone": "07306833788",
+        "payment": "cod"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "Smartphone",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/a/-original-imah4jyfyrpxfhtk.jpeg?q=70",
+          "price": 12000,
+          "category": "Electronics",
+          "offer": "10% Off",
+          "quantity": 1
+        }
+      ],
+      "status": "Pending",
+      "date": "2025-08-21T03:19:40.528Z"
+    }
+  ]
+}

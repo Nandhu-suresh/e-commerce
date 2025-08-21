@@ -1,0 +1,26 @@
+.admin-sidebar {
+  width: 220px;
+  height: 100vh;
+  background: #343a40;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.admin-sidebar h3 {
+  color: #f8f9fa;
+}
+
+.admin-sidebar ul li {
+  margin: 15px 0;
+}
+
+.admin-sidebar a {
+  color: #f8f9fa;
+  text-decoration: none;
+}
+
+.admin-sidebar a:hover {
+  color: #ffc107;
+}
