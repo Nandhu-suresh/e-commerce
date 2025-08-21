@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/e-cart/static/css/main.6e2ff6d6.css",
-    "main.js": "/e-cart/static/js/main.fb0108aa.js",
-    "index.html": "/e-cart/index.html",
-    "main.6e2ff6d6.css.map": "/e-cart/static/css/main.6e2ff6d6.css.map",
-    "main.fb0108aa.js.map": "/e-cart/static/js/main.fb0108aa.js.map"
+    "main.css": "/Nandhu-suresh/e-commerce.git/static/css/main.6e2ff6d6.css",
+    "main.js": "/Nandhu-suresh/e-commerce.git/static/js/main.fb0108aa.js",
+    "index.html": "/Nandhu-suresh/e-commerce.git/index.html",
+    "main.6e2ff6d6.css.map": "/Nandhu-suresh/e-commerce.git/static/css/main.6e2ff6d6.css.map",
+    "main.fb0108aa.js.map": "/Nandhu-suresh/e-commerce.git/static/js/main.fb0108aa.js.map"
   },
   "entrypoints": [
     "static/css/main.6e2ff6d6.css",
